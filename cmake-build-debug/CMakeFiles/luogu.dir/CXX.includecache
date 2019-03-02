@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Atlantis/My Projects/C:C++/luogu/p1012.cpp
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+
